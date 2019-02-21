@@ -36,7 +36,7 @@ print ('''%s
  |__| |  |) |  |  
 %s''' % (green, end))
 
-main = input('%s Enter a wallet address: ' % que)
+main = input('%s Enter a wallet address: 1kHg2YrvaPMFRqSpKx3PQstio5kMUyYZ2 ' % que)
 
 database[main] = {}
 database[main]['nSize'] = 0
